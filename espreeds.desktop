@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ESPREEDS
+Comment=Script to control ESPREED01 smart reed switches
+
+# Change to your actual directories
+Exec=/path/venv/bin/python3 /path/src/script.py
+Icon=/path/data/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;
