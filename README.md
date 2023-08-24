@@ -4,4 +4,4 @@
 # Setup
 Just update the .desktop file in the projects directory and place it in /usr/share/applications,
 make it autostart using some system utility (fe. Startup Applications), add IP addresses of the ESPREED01s
-in the main.py file and reboot your machine or start the program manually
+in the main.py file, reboot your machine or start the program manually.
